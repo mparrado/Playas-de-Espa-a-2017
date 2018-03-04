@@ -33,6 +33,7 @@ La visualización pone de manifiesto algunos insights, tales como :
          - La Coruña
          - Pontevedra/Vigo.
    3) Se observa (pestaña MAPA_3) un trozo en la costa norte de la provincia de la Coruña donde no hay playas (=> ¿ es quizá una zona de acantilados ?).
+
 y otros datos esperados como que en Ceuta y Melilla no haya playas nudistas.
 
 
