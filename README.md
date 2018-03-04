@@ -49,12 +49,13 @@ Llevamos a cabo un análisis del dataset respondiendo a las siguientes preguntas
    * QUERY_5 : Metros de playa de una cierta Comunidad Autónoma agrupados por provincia 
    * QUERY_6 : ¿ Qué Comunidad tiene más metros de playa ?
    * QUERY_7 : ¿ Qué provincia tiene más playas ... ?
+   
                - QUERY_7.1 : ¿ Qué provincia tiene más playas ... en número ?
                - QUERY_7.2 : ¿ Qué provincia tiene más playas ... con nombres diferentes ?
                - QUERY_7.3 : ¿ Qué provincia tiene más playas ... nudistas ?
                - QUERY_7.4 : ¿ Qué provincia tiene más playas ... con bandera azul ?
 
-Respondemos a estas preguntas cargando los datos en la correspondiente BD y, a continuación, ejecutando la QUERY en el lenguaje particular de la BD. Las BD :
+Respondemos a estas preguntas cargando los datos en la correspondiente BD y, a continuación, ejecutando la QUERY en el lenguaje particular de la BD. Las BD que hemos utilizado son :
    * BD SQL :
         - PostgreSQL
    * BD NoSQL :
