@@ -54,4 +54,11 @@ Llevamos a cabo un análisis del dataset respondiendo a las siguientes preguntas
                - QUERY_7.3 : ¿ Qué provincia tiene más playas ... nudistas ?
                - QUERY_7.4 : ¿ Qué provincia tiene más playas ... con bandera azul ?
 
-Responderemos a estas preguntas  :
+Respondemos a estas preguntas cargando los datos en la correspondiente BD y, a continuación, ejecutando la QUERY en el lenguaje particular de la BD. Las BD :
+   * BD SQL :
+        - PostgreSQL
+   * BD NoSQL :
+        - Riak
+        - Cassandra
+        - MongoDB
+        - Neo4j
