@@ -36,7 +36,6 @@ La visualización pone de manifiesto algunos insights, tales como :
 
 y otros datos esperados como que en Ceuta y Melilla no haya playas nudistas.
 
-
 C) Análisis del dataset
 ================================================================================
 
