@@ -19,13 +19,21 @@ Las características de los datos son las siguientes :
 B) Visualización del dataset :
 ================================================================================
    
-Se ha elaborado una visualización del dataset con la herramienta TABLEAU PUBLIC donde se muestran las playas (agrupadas por Comunidad Autónoma) y algunas de sus características. Por ejemplo :
+Se ha elaborado una visualización del dataset con la herramienta TABLEAU PUBLIC donde se muestran las playas y algunas de sus características. Por ejemplo :
 
    * Playas nudistas
    * Playas con bandera azul
    * Nombre de cada playa
    * Kilómetros de playa
-   *
+
+agrupadas por Comunidad Autónoma y en algunos casos por provincia Provincia.
+
+La visualización pone de manifiesto algunos insights, tales como :
+   1) Sorprende que sea Galicia la que más playas tiene con diferencia, teniendo como tiene un clima no demasiado cálido (pestaña BARRAS_H).
+   2) Las playas nudistas de Galicia se concentran en torno a 2 grandes núcleos de población (pestaña MAPA_3) :
+         - La Coruña
+         - Pontevedra/Vigo.
+   3) Se observa (pestaña MAPA_3) un trozo en la costa norte de la provincia de la Coruña donde no hay playas (=> ¿ es quizá una zona de acantilados ?).
 
 
 B) Anális del dataset :
