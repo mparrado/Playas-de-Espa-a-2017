@@ -6,9 +6,9 @@ Visualización y análisis de las Playas de España 2017 (fuente de datos : esri
 
 En este proyecto se analizan el dataset de todas las Playas de España se 
 
-================================================================================
-  A) Características del dataset
-================================================================================
+A) Características del dataset
+=====================
+
 
 Las características de los datos son las siguientes :
 
