@@ -19,9 +19,13 @@ Las características de los datos son las siguientes :
 B) Visualización del dataset :
 ================================================================================
    
-Se ha elaborado una visualización del dataset con la herramienta TABLEAU PUBLIC donde se muestran las playas y
-algunas de sus características agrupadas por Comunidad Autónoma. Por ejemplo :
-   * 
+Se ha elaborado una visualización del dataset con la herramienta TABLEAU PUBLIC donde se muestran las playas (agrupadas por Comunidad Autónoma) y algunas de sus características. Por ejemplo :
+
+   * Playas nudistas
+   * Playas con bandera azul
+   * Nombre de cada playa
+   * Kilómetros de playa
+   *
 
 
 B) Anális del dataset :
