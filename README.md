@@ -29,10 +29,10 @@ agrupadas (cuando proceda) por Comunidad Autónoma y por provincia.
 
 La visualización pone de manifiesto algunos insights, tales como :
    1) Sorprende que sea Galicia la que más playas tiene con diferencia, teniendo como tiene un clima no demasiado cálido (pestaña BARRAS_H).
-   2) Las playas nudistas de Galicia se concentran en torno a 2 grandes núcleos de población (pestaña MAPA_3) :
+   2) Las playas nudistas de Galicia no se  distribuyen a lo largo de toda su costa, sino que se concentran en torno a 2 grandes núcleos de población (pestaña MAPA_3) :
          - La Coruña
          - Pontevedra/Vigo.
-   3) Se observa (pestaña MAPA_3) un trozo en la costa norte de la provincia de la Coruña donde no hay playas (=> ¿ es quizá una zona de acantilados ?).
+   3) Se observa (pestaña MAPA_3) un trozo en la costa norte de la provincia de La Coruña donde no hay playas (=> ¿ es quizá una zona de acantilados ?).
 
 y otros datos esperados como que en Ceuta y Melilla no haya playas nudistas.
 
