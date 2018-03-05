@@ -67,25 +67,14 @@ D) FICHEROS
 ================================================================================
 Los ficheros que componen este proyecto son :
  
-a) Ficheros de visualización :
-      - Mercedes_Parrado___TABLEAU_Playas_2017___JUPYTER_Python___Limpiar_Dataset.ipynb   (lectura y limpieza del dataset para TABLEAU)
-      - Mercedes_Parrado___TABLEAU_Playas_2017___Visualización.twbx  (visualización de TABLEAU Public)
-      
-b) Ficheros de análisis de BD (Notebooks de JYPYTER) : 
-      - Mercedes_Parrado___Playas_2017___INTRODUCCION_y_Leer_Datos_de_CSV_a_Excel.ipynb   (lectura y limpieza del dataset)
-      - Mercedes_Parrado___Playas_2017___BD_SQL___PostgreSQL.ipynb    (QUERYS en una BD SQL PostgreSQL)
-      - Mercedes_Parrado___Playas_2017___BD_NoSQL___RIAK.ipynb        (QUERYS en una BD NoSQL RIAK)
-      - Mercedes_Parrado___Playas_2017___BD_NoSQL___CASSANDRA.ipynb   (QUERYS en una BD NoSQL CASSANDRA)
-      - Mercedes_Parrado___Playas_2017___BD_NoSQL___MongoDB.ipynb     (QUERYS en una BD NoSQL MongoDB)
-      - Mercedes_Parrado___Playas_2017___BD_NoSQL___Neo4j.ipynb       (QUERYS en una BD NoSQL Neo4j)
-
-
-
-
-
-
-
-
-
-
-
+   * Ficheros de visualización :
+        - Mercedes_Parrado___TABLEAU_Playas_2017___JUPYTER_Python___Limpiar_Dataset.ipynb   (Notebook de JUPYTER con el código de lectura y limpieza del dataset para TABLEAU)
+        - Mercedes_Parrado___TABLEAU_Playas_2017___Visualización.twbx  (visualización de TABLEAU Public)
+        
+   * Ficheros de análisis de BD (Notebooks de JYPYTER) :
+        - Mercedes_Parrado___Playas_2017___INTRODUCCION_y_Leer_Datos_de_CSV_a_Excel.ipynb   (lectura y limpieza del dataset)
+        - Mercedes_Parrado___Playas_2017___BD_SQL___PostgreSQL.ipynb    (QUERYS en una BD SQL PostgreSQL)
+        - Mercedes_Parrado___Playas_2017___BD_NoSQL___RIAK.ipynb        (QUERYS en una BD NoSQL RIAK)
+        - Mercedes_Parrado___Playas_2017___BD_NoSQL___CASSANDRA.ipynb   (QUERYS en una BD NoSQL CASSANDRA)
+        - Mercedes_Parrado___Playas_2017___BD_NoSQL___MongoDB.ipynb     (QUERYS en una BD NoSQL MongoDB)
+        - Mercedes_Parrado___Playas_2017___BD_NoSQL___Neo4j.ipynb       (QUERYS en una BD NoSQL Neo4j)
