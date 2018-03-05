@@ -74,7 +74,7 @@ Los ficheros que componen este proyecto son :
    * Ficheros de **análisis de BD** (Notebooks de JYPYTER) :
         - Mercedes_Parrado___Playas_2017___INTRODUCCION_y_Leer_Datos_de_CSV_a_Excel.ipynb   (lectura y limpieza del dataset)
         - Mercedes_Parrado___Playas_2017___BD_SQL___PostgreSQL.ipynb    (QUERYS en una BD SQL PostgreSQL)
-        - Mercedes_Parrado___Playas_2017___BD_NoSQL___RIAK.ipynb        (QUERYS en una BD NoSQL RIAK)
+        - Mercedes_Parrado___Playas_2017___BD_NoSQL___RIAK.ipynb        (QUERYS en una BD NoSQL RIAK)
         - Mercedes_Parrado___Playas_2017___BD_NoSQL___CASSANDRA.ipynb   (QUERYS en una BD NoSQL CASSANDRA)
         - Mercedes_Parrado___Playas_2017___BD_NoSQL___MongoDB.ipynb     (QUERYS en una BD NoSQL MongoDB)
-        - Mercedes_Parrado___Playas_2017___BD_NoSQL___Neo4j.ipynb       (QUERYS en una BD NoSQL Neo4j)
+        - Mercedes_Parrado___Playas_2017___BD_NoSQL___Neo4j.ipynb       (QUERYS en una BD NoSQL Neo4j)
