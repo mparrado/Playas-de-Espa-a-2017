@@ -15,7 +15,7 @@ Las características de los datos son las siguientes :
    * NUM. REGISTROS  : 3.511
    * NUM. ATRIBUTOS  : 80
       
-B) Visualización del dataset
+B) Visualización del dataset con TABLEAU
 ================================================================================
    
 Se ha elaborado una visualización del dataset con la herramienta TABLEAU PUBLIC (https://public.tableau.com/profile/mercedes.parrado#!) donde se muestran las playas y algunas de sus características. Por ejemplo :
@@ -36,7 +36,7 @@ La visualización pone de manifiesto algunos insights, tales como :
 
 y otros datos esperados como que en Ceuta y Melilla no haya playas nudistas.
 
-C) Análisis del dataset
+C) Análisis del dataset con diferentes BD
 ================================================================================
 
 Llevamos a cabo un análisis del dataset respondiendo a las siguientes preguntas :
