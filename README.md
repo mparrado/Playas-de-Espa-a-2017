@@ -71,7 +71,7 @@ Los ficheros que componen este proyecto son :
         - Mercedes_Parrado___TABLEAU_Playas_2017___JUPYTER_Python___Limpiar_Dataset.ipynb   (Notebook de JUPYTER con Python que contiene el código de lectura y limpieza del dataset para TABLEAU)
         - Mercedes_Parrado___TABLEAU_Playas_2017___Visualización.twbx  (visualización de TABLEAU Public)
         
-   * Ficheros de **análisis de BD** (Notebooks de JYPYTER) :
+   * Ficheros de **análisis de BD** (Notebooks de JYPYTER con Python) :
         - Mercedes_Parrado___Playas_2017___INTRODUCCION_y_Leer_Datos_de_CSV_a_Excel.ipynb   (lectura y limpieza del dataset)
         - Mercedes_Parrado___Playas_2017___BD_SQL___PostgreSQL.ipynb    (QUERYS en una BD SQL PostgreSQL)
         - Mercedes_Parrado___Playas_2017___BD_NoSQL___RIAK.ipynb        (QUERYS en una BD NoSQL RIAK)
